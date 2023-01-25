@@ -1,0 +1,15 @@
+C:\Users\Открывашка\Desktop\GeekBrains\C#\Examples\newConsole\bin\Debug\net6.0\newConsole.exe
+C:\Users\Открывашка\Desktop\GeekBrains\C#\Examples\newConsole\bin\Debug\net6.0\newConsole.deps.json
+C:\Users\Открывашка\Desktop\GeekBrains\C#\Examples\newConsole\bin\Debug\net6.0\newConsole.runtimeconfig.json
+C:\Users\Открывашка\Desktop\GeekBrains\C#\Examples\newConsole\bin\Debug\net6.0\newConsole.dll
+C:\Users\Открывашка\Desktop\GeekBrains\C#\Examples\newConsole\bin\Debug\net6.0\newConsole.pdb
+C:\Users\Открывашка\Desktop\GeekBrains\C#\Examples\newConsole\obj\Debug\net6.0\newConsole.csproj.AssemblyReference.cache
+C:\Users\Открывашка\Desktop\GeekBrains\C#\Examples\newConsole\obj\Debug\net6.0\newConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Открывашка\Desktop\GeekBrains\C#\Examples\newConsole\obj\Debug\net6.0\newConsole.AssemblyInfoInputs.cache
+C:\Users\Открывашка\Desktop\GeekBrains\C#\Examples\newConsole\obj\Debug\net6.0\newConsole.AssemblyInfo.cs
+C:\Users\Открывашка\Desktop\GeekBrains\C#\Examples\newConsole\obj\Debug\net6.0\newConsole.csproj.CoreCompileInputs.cache
+C:\Users\Открывашка\Desktop\GeekBrains\C#\Examples\newConsole\obj\Debug\net6.0\newConsole.dll
+C:\Users\Открывашка\Desktop\GeekBrains\C#\Examples\newConsole\obj\Debug\net6.0\refint\newConsole.dll
+C:\Users\Открывашка\Desktop\GeekBrains\C#\Examples\newConsole\obj\Debug\net6.0\newConsole.pdb
+C:\Users\Открывашка\Desktop\GeekBrains\C#\Examples\newConsole\obj\Debug\net6.0\newConsole.genruntimeconfig.cache
+C:\Users\Открывашка\Desktop\GeekBrains\C#\Examples\newConsole\obj\Debug\net6.0\ref\newConsole.dll
